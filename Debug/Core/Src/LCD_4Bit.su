@@ -1,0 +1,9 @@
+../Core/Src/LCD_4Bit.c:26:17:DWT_Delay_Init	4	static,ignoring_inline_asm
+../Core/Src/LCD_4Bit.c:50:22:delay	24	static
+../Core/Src/LCD_4Bit.c:61:6:send_to_lcd	16	static
+../Core/Src/LCD_4Bit.c:76:6:lcd_send_cmd	24	static
+../Core/Src/LCD_4Bit.c:83:6:lcd_send_data	24	static
+../Core/Src/LCD_4Bit.c:90:6:lcd_clear	8	static
+../Core/Src/LCD_4Bit.c:94:6:lcd_put_cur	16	static
+../Core/Src/LCD_4Bit.c:105:6:lcd_init	8	static
+../Core/Src/LCD_4Bit.c:125:6:lcd_send_string	16	static
